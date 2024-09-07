@@ -9,4 +9,7 @@
 5. The video will appear inside the same folder of the original video.
 
 # Credits
-- Moviepy - https://pypi.org/project/moviepy/
+- Moviepy - https://pypi.org/project/moviepy
+
+# Contributor
+- Alvarado, Miko Aldrin
